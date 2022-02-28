@@ -6,7 +6,7 @@ Simple re-usable components using :
 - Yup
 - DatePicker
 
-# Input type view in the project :
+# Input type view in this project :
 
 - Input
 - Checkbox
@@ -24,5 +24,11 @@ There is no css.
 For this project you need to downgrade your node version to 14 min.
 use :
 `nvm use 14`
+
+Start the project : `nvm run start`
+
+# Submit result :
+
+The submit result is on your dev tools. The submit button will return a console.log
 
 Enjoy it ! :)
