@@ -1,24 +1,28 @@
-## My settings for getting started with a brand new project !
+# Formik Tools
 
-In first this app have been created with npx create-react-app
+Simple re-usable components using :
 
-# Package installed :
-- node-sass
-- react-router-dom
-- typescript
-- env-cmd
-- express
+- Formik
+- Yup
+- DatePicker
+
+# Input type view in the project :
+
+- Input
+- Checkbox
+- Radio
+- Dropdown
+- DatePicker
+- Textarea
+
+# No CSS:
+
+There is no css.
 
 # NVM version :
+
 For this project you need to downgrade your node version to 14 min.
 use :
- ````nvm use 14````
-
-# Env file :
-Here some file are listed in the .gitignore file, but you can create the two other files who need:
-.prod.env
-.qa.env
-
-I'm listening for advice :) !
+`nvm use 14`
 
 Enjoy it ! :)
