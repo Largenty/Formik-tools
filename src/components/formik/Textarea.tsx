@@ -8,13 +8,7 @@ function Textarea(props: FormikProps) {
   return (
     <div>
       <label htmlFor={name}>{label}</label>
-      <Field
-        as="textarea"
-        id={name}
-        name={name}
-        {...rest}
-        style={{ width: "100%" }}
-      />
+      <Field as="textarea" id={name} name={name} {...rest} />
       <ErrorMessage name={name} component={TextError} />
     </div>
   );
