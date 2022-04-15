@@ -23,7 +23,7 @@ There is no css.
 
 For this project you need to downgrade your node version to 14 min.
 use :
-`nvm use 14`
+`npm use 14`
 
 Start the project : `nvm run start`
 
